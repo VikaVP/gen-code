@@ -9,7 +9,7 @@ import { Textarea } from "./components/ui/textarea";
 import ShimmerButton from "./components/magicui/shimmer-button";
 import { Card } from "./components/ui/card";
 import Highlight from 'react-highlight'
-import 'node_modules/highlight.js/styles/hybrid.css';
+import 'highlight.js/styles/hybrid.css';
 import DotPattern from "./components/magicui/dot-pattern";
 import Footer from "./components/footer";
 
