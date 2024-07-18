@@ -12,7 +12,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       external: [
-        'highlight.js/styles/hybrid.css',
+        './node-modules/highlight.js/styles/hybrid.css',
       ]
     }
   }
