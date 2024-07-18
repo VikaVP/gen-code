@@ -1,0 +1,19 @@
+#root {
+    margin: 0;
+    padding: 0;
+    max-width: 1280px;
+    text-align: center;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* pre code {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+} */
