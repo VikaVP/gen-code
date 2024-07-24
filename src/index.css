@@ -86,7 +86,7 @@ pre {
 }
 
 footer {
-    background: rgba(26, 21, 28, 0.09);
+    background: rgba(26, 21, 28, 0.03);
     backdrop-filter: blur(7.7px);
     -webkit-backdrop-filter: blur(7.7px);
 }
